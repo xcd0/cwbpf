@@ -1,3 +1,6 @@
 cwbpf-backups
 fp-info-cache
 netlist.asc
+*.bak
+_autosave-*.*
+~*
